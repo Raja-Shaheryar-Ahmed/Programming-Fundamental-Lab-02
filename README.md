@@ -45,9 +45,15 @@ gcc p260051_taskN.c -o p260051_taskN
 
 (On Windows, this produces the `.exe` files already included in the folder.)
 
-## 👤 About me
+## 👤 Author
 
-First-year BS AI student at FAST-NUCES Peshawar, building programming fundamentals in C alongside Python.
+**Raja Shaheryar Ahmed**
+Roll No: P26-0051
+GitHub: [@Raja-Shaheryar-Ahmed](https://github.com/Raja-Shaheryar-Ahmed)
+
+## 📄 License
+
+This project is for educational purposes as part of university coursework.
 
 ---
 *Part of ongoing coursework — more lab folders will be added as the semester progresses.*
